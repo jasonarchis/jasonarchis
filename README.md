@@ -6,3 +6,7 @@ Right now, I'm building a next-gen platform for businesses to track spending and
 * 💻 JavaScript, HTML, CSS, Bootstrap
 * ⚙️ Java, C, Python, Flask, SQLAlchemy, MongoDB
 * 🕹️ Microsoft Azure, Linux
+
+## Projects
+* [J-Notes](https://github.com/jasonarchis/JNotes-WebApp):
+
