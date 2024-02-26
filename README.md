@@ -4,7 +4,7 @@ Right now, I'm building a next-gen platform for businesses to track spending and
 
 ## Skills
 * 💻 JavaScript, HTML, CSS, Bootstrap
-* ⚙️ Java, C, Python, Flask, SQLAlchemy, MongoDB
+* ⚙️ Java, C, Python, Flask, SQL, SQLAlchemy, MongoDB
 * 🕹️ Microsoft Azure, Linux
 
 ## Projects
